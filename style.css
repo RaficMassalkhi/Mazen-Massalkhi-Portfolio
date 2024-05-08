@@ -306,7 +306,9 @@ nav .fa-xmark{
     #header{
         background-image: url(phone-background.png);
         background-size: cover;
-        width: 140%;
+        background-position: center;
+        background-repeat: no-repeat;
+        width: 100%;
     }
     .logo{
         margin-top: 3%;
