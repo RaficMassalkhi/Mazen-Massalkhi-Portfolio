@@ -251,6 +251,10 @@ nav ul li a:hover::after{
     color: #00ff7b;
     transform: translateY(-5px);
 }
+.contact-info{
+    text-decoration: none;
+    color: #fff;
+}
 .btn.btn2{
     display: inline-block;
     background: #00b055;
