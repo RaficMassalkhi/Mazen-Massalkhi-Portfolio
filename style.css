@@ -383,6 +383,10 @@ nav .fa-xmark{
     .contact-left, .contact-right{
         flex-basis: 100%;
     }
+    .contact-info{
+        text-decoration: none;
+        color: #fff;
+    }
     .contact-right a{
         margin-left: 450px;
         padding-bottom: 60px;
