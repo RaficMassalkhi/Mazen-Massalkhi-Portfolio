@@ -180,9 +180,11 @@ nav ul li a:hover::after{
 }
 .links-text h1{
     padding-top: 20px;
+    font-size: 25px;
 }
 .links-text h2{
     padding-top: 60px;
+    font-size: 25px;
 }
 
 .work-list{
@@ -267,7 +269,9 @@ nav ul li a:hover::after{
     color: #00b055;
     font-size: 40px;
     margin-left: 650px;
-    
+}
+.resume{
+    padding-top: 45px;
 }
 form input, form textarea{
     width: 100%;
